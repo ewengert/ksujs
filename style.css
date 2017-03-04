@@ -1,9 +1,20 @@
-body {
-	text-align: center;
-	padding: 100px;
+.chart{
+	background-color: #dadada;
+	min-width: 200px;
+	min-height: 350px;
 }
 
-button{
+.bar{
+	fill: #000000;
+	height: 30px;
+}
+
+/*body {
+	text-align: center;
+	padding: 100px;
+}*/
+
+/*button{
 	border: none;
 	padding:10px;
 	background-color: black;
@@ -13,4 +24,4 @@ button{
 button:hover {
 	background-color: white;
 	color: black;
-}
+}*/
